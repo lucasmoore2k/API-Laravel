@@ -9,7 +9,7 @@ O teste consiste em fazer uma API rest usando laravel de cadastro de funcionári
 
 Clone o projeto em sua máquina local.
 
-Crie uma tabela no seu banco de dados MySQL com o nome teste_simsave ou qualquer outro nome que desejar.
+Crie uma tabela no seu banco de dados MySQL com o nome `api_laravel` ou qualquer outro nome que desejar.
 
 Configure o arquivo .env com os dados de conexão do seu banco de dados MySQL local.
 
