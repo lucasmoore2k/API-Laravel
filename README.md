@@ -4,3 +4,21 @@
 Teste de candidatura
 
 O teste consiste em fazer uma API rest usando laravel de cadastro de funcionários de uma empresa.
+
+## Como instalar
+
+Clone o projeto em sua máquina local.
+
+Crie uma tabela no seu banco de dados MySQL com o nome teste_simsave ou qualquer outro nome que desejar.
+
+Configure o arquivo .env com os dados de conexão do seu banco de dados MySQL local.
+
+Instale as dependencias do projeto com o comando composer install
+
+Rode o comando php artisan migrate para criar as tabelas iniciais no seu bd.
+
+Rode o comando php artisan db:seed --class=CompanySeeder para popular a tabela companies.
+
+Sirva sua API com o comando php artisan serve
+
+Pronto, você está pronto usar a API
