@@ -1,5 +1,6 @@
 ## API usando LARAVEL
-API rest usando laravel de cadastro de funcionários de uma empresa.
+API rest usando laravel de cadastro de empresas e funcionários.
+
 
 ## Como instalar
 
